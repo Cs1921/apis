@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "John",
+    "directory": "James Cameron",
+    "año": "1986",
+    "rating": "8.5 "
+  },
+  {
+    "id": "2",
+    "name": "John",
+    "directory": "James Cameron",
+    "año": "1986",
+    "rating": "8.5 "
+  },
+  {
+    "id": "3",
+    "name": "The Dark Knight",
+    "directory": "Cristhoper Nolan",
+    "año": "2008",
+    "rating": "10 "
+  }
+]
